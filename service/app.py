@@ -85,5 +85,3 @@ if __name__ == "__main__":
     app.logger.info(f"Use model: {args.model}")
     app.run(debug=True)
 
-  git config --global user.email "anton.vaev@mail.ru"
-  git config --global user.name "Anton_V"
